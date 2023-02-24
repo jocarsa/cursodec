@@ -1,8 +1,7 @@
 // main.c
 #include <stdio.h>
 #include <stdlib.h>
-#include <sqlite3.h> 
-#include <string.h> 
+#include <sqlite3.h>
 #include "funciones/datosIniciales.c"
 #include "funciones/limpiarPantalla.c"
 #include "funciones/exito.c"
